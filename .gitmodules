@@ -1,0 +1,9 @@
+[submodule "microservices/temperature-monitoring"]
+	path = microservices/temperature-monitoring
+	url = https://github.com/Matheusmottaa/temperature-monitoring.git
+[submodule "microservices/temperature-processing"]
+	path = microservices/temperature-processing
+	url = https://github.com/Matheusmottaa/temperature-processing.git
+[submodule "microservices/sensor-device-management"]
+	path = microservices/sensor-device-management
+	url = https://github.com/Matheusmottaa/sensor-device-management.git
